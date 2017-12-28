@@ -1,0 +1,14 @@
+iPhone 5S  320x568  7.0 
+Galaxy S5 Mini 360x640  4.4 
+Galaxy S5 360x640  4.4 
+Galaxy Note 3 360x640  4.3 
+iPhone 6 375x667  8.3 
+Google Nexus 4  384x640  4.2 
+iPhone 6 Plus 414x736  8.3 
+Kindle Fire HDX 7 600x960  4.3 
+iPad Mini 2 768x1024  8.3 
+iPad Air 768x1024  8.3 
+Galaxy Tab 4 800x1280
+
+
+@media all screen and (max-width:700px),(max-width:320px),(max-width:360px),(max-width:384px),(max-width:414px),(max-width:600px),(max-width:768px),(max-width:800px), 
